@@ -4,9 +4,9 @@
 The Notesomething application is designed to Notes Someting for future discussion and further Activity. It utilizes Firebase as the storage technology, with Java serving as the backend language and XML for the frontend. The UI design is crafted using Constraint Layout for a responsive and user-friendly experience.
 
 # Technologies Used
-  ###Backend: Java
-  ###Frontend: XML with Constraint Layout
-  ###Storage: Firebase
+  ### Backend: Java
+  ### Frontend: XML with Constraint Layout
+  ### Storage: Firebase
 
 # Usage
 everyone can use my application for writedown someting and write important thing .
