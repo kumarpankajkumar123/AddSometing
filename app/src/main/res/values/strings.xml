@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="hintU">Username</string>
+    <string name="hintE">Email</string>
+    <string name="hintP">Password</string>
+    <string name="hintC">Confirm Password</string>
+    <string name="heading">Let\'s get Started</string>
+</resources>
